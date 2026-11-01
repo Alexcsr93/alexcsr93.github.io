@@ -1,8 +1,18 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.alexcsr93.twa",
-        "sha256_cert_fingerprints": ["6C:42:66:7E:28:1D:46:C0:C2:15:6B:6D:A2:AB:BA:43:CA:E3:32:D9:F3:B4:E8:4A:3C:E9:A7:C9:CD:F9:2F:FF"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.alexcsr93.twa",
+      "sha256_cert_fingerprints": ["6C:42:66:7E:28:1D:46:C0:C2:15:6B:6D:A2:AB:BA:43:CA:E3:32:D9:F3:B4:E8:4A:3C:E9:A7:C9:CD:F9:2F:FF"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.alexcsr93.metaentregador.twa",
+      "sha256_cert_fingerprints": ["09:4C:AA:39:F0:8B:A7:E8:9B:D3:08:53:68:41:91:85:C7:5E:F1:81:F8:FF:5F:95:F4:40:09:78:1D:E8:C9:20"]
+    }
+  }
+]
