@@ -14,13 +14,13 @@
       "package_name": "io.github.alexcsr93.metaentregador.twa",
       "sha256_cert_fingerprints": ["09:4C:AA:39:F0:8B:A7:E8:9B:D3:08:53:68:41:91:85:C7:5E:F1:81:F8:FF:5F:95:F4:40:09:78:1D:E8:C9:20"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.alexcsr93.banco.twa",
+      "sha256_cert_fingerprints": ["2D:50:D1:5C:F1:67:5A:D6:14:8B:32:03:95:3E:36:C3:EE:16:DB:D6:DD:54:2C:9E:D6:D1:F0:E0:26:21:9A:1E"]
+    }
   }
-  [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.alexcsr93.banco.twa",
-        "sha256_cert_fingerprints": ["2D:50:D1:5C:F1:67:5A:D6:14:8B:32:03:95:3E:36:C3:EE:16:DB:D6:DD:54:2C:9E:D6:D1:F0:E0:26:21:9A:1E"]
-      }
-    }]
 ]
